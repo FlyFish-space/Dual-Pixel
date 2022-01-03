@@ -11,7 +11,7 @@
 |[Single-Shot Face Anti-Spoofing for Dual Pixel Camera](https://ieeexplore.ieee.org/document/9248008)| 2021 | IEEE Transactions on Information Forensics and Security | Face depth estimation | 
 |[Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration](https://arxiv.org/abs/2012.00301)| 2021 | CVPR |Depth estimation & Defocus deblur |[Github](https://github.com/panpanfei/Dual-Pixel-Exploration-Simultaneous-Depth-Estimation-and-Image-Restoration)
 |[Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image](https://arxiv.org/abs/2110.05655)| 2021 | ICCV | Defocus deblur & Defocus map estimation | [Github](https://github.com/cmu-ci-lab/dual_pixel_defocus_estimation_deblurring)
-|[Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://arxiv.org/abs/2012.03255)| 2021 | ICCV | Defocus deblur | [Github](https://arxiv.org/abs/2012.03255)
+|[Learning to Reduce Defocus Blur by Realistically Modeling Dual-Pixel Data](https://arxiv.org/abs/2012.03255)| 2021 | ICCV | Defocus deblur | [Github](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)
 |[Improving Single-Image Defocus Deblurring: How Dual-Pixel Images Help Through Multi-Task Learning](https://arxiv.org/abs/2108.05251)| 2021 | | Defocus deblur | [Github](https://github.com/Abdullah-Abuolaim/multi-task-defocus-deblurring-dual-pixel-nimat)
 |[BaMBNet: A Blur-aware Multi-branch Network for Defocus Deblurring](https://arxiv.org/abs/2105.14766)| 2021 | | Defocus deblur | [Gihub](https://github.com/junjun-jiang/BaMBNet)|
 |[Multi-View Motion Synthesis via Applying Rotated Dual-Pixel Blur Kernels](https://arxiv.org/abs/2111.07837)| 2021 | | Defocus deblur | |
